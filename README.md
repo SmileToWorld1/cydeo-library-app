@@ -8,7 +8,7 @@ HTML and json reports are generated under the target folder`:`target/cucumber-ht
 
 ## Apache POİ
 For login functionality, DDT is implemented and **CydeoLibraryApp.xlsx** file data' are verified one by one.
-For this purpose, *Apache Poi* dependency is added pom.xml file and also one extra java package designed for this DDT test.
+For this purpose, *Apache Poi* dependency is added pom.xml file and also one java package is designed for this DDT test.
 
 ## Parallel Testing
 **maven-surefire-plugin** is implemented for parallel testing. This way you can use maven lifecycle and all scenario can trigger with just a one command.
