@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Library app login feature with parameterization
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.401 s - in Library app login feature with parameterization
